@@ -1,4 +1,12 @@
 1)What is a gitignore file and what should it include for a Java project?
+ git ignore helps us ignore certain type of files(we can choose them using filters) , to avoid pushing binary files 
+ to the remote repository.
+
 2)What does fast-forward in Git mean?
+Git fastforward means git simply moves the source branch pointer to the target branch pointer without creating an extra merge commit.
+
 3)Why should you have different branches?
+Branching allows collabration , multiple developers can work on their own copy of the code and then merge into the main repo when it works.
+
 4)In a project how many remote Git repositories do you usually have?
+ A project is done only in one repository but this is not a rule. we can work on multiple repositories for a single project
