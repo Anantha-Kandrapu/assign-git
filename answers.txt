@@ -1,8 +1,0 @@
-1) git ignore helps us ignore certain type of files(we can choose them using filters) , to avoid pushing binary files 
- to the remote repository.
-
-2) Git fastforward means git simply moves the source branch pointer to the target branch pointer without creating an extra merge commit.
-
-3) Branching allows collabration , multiple developers can work on their own copy of the code and then merge into the main repo when it works.
-
-4) A project is done only in one repository but this is not a rule. we can work on multiple repositories for a single project
